@@ -1,4 +1,4 @@
 coblong
 =======
 
-*adalh website pelayanan untuk kecamatan coblong
+*adalah website pelayanan untuk kecamatan coblong
